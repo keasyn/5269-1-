@@ -1,1 +1,2 @@
-print('hi')
+i = input('whats your name ')
+print("Hello,", i)
