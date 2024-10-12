@@ -92,6 +92,12 @@ class Library:
         total_books = len(self.books)
         books_taken = len(self.taken_books)
         return f"Library has {total_books} books. {books_taken} books are currently borrowed."
+        
+#дописать примеры снизу НЕ ЗАБУДЬ!
+#дописать примеры снизу НЕ ЗАБУДЬ!
+#дописать примеры снизу НЕ ЗАБУДЬ!
+#дописать примеры снизу НЕ ЗАБУДЬ!
+#дописать примеры снизу НЕ ЗАБУДЬ!
 
 book1 = Book("1984", "George Orwell", 10)
 book2 = Book('Brave New World', 'Aldous Huxley', 12)
